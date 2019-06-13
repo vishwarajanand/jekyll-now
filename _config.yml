@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Vishwaraj Anand
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: My blog bin
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://user-images.githubusercontent.com/7369612/59423582-0c53d980-8df0-11e9-8c5d-ce954b783f0f.png
 
 #
 # Flags below are optional
@@ -18,17 +18,19 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email:vishwaraj.anand00@gmail.com
+  facebook:vishwaraj.anand
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: vishwarajanand/jekyll-now
+  instagram:vishwarajanand
+  linkedin:in/vishwarajanand
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  twitter: vishwarajanand
+  # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/3991696/vishwarajanand
+  # channel/<your_long_string> or user/<user-name>
+  youtube: user/vishwarajanand00 
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -37,11 +39,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics:UA-128345734-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:https://vishwarajanand.github.io/jekyll-now/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
