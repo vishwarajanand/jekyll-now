@@ -22,15 +22,15 @@ footer-links:
   facebook: 'vishwaraj.anand'
   flickr:
   github: 'vishwarajanand/jekyll-now'
-  instagram:'vishwarajanand'
-  linkedin:'in/vishwarajanand'
+  instagram: 'vishwarajanand'
+  linkedin: 'in/vishwarajanand'
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: vishwarajanand
   # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  stackoverflow: users/3991696/vishwarajanand
+  stackoverflow: 'users/3991696/vishwarajanand'
   # channel/<your_long_string> or user/<user-name>
-  youtube: user/vishwarajanand00 
+  youtube: 'user/vishwarajanand00'
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
