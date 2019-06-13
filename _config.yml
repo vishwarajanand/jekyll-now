@@ -18,12 +18,12 @@ avatar: https://user-images.githubusercontent.com/7369612/59423582-0c53d980-8df0
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:vishwaraj.anand00@gmail.com
-  facebook:vishwaraj.anand
+  email: 'vishwaraj.anand00@gmail.com'
+  facebook: 'vishwaraj.anand'
   flickr:
-  github: vishwarajanand/jekyll-now
-  instagram:vishwarajanand
-  linkedin:in/vishwarajanand
+  github: 'vishwarajanand/jekyll-now'
+  instagram:'vishwarajanand'
+  linkedin:'in/vishwarajanand'
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: vishwarajanand
